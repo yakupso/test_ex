@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "files": [
+            "src/Fruit.php",
+            "src/Apple.php",
+            "src/Pear.php",
+            "src/Tree.php",
+            "src/AppleTree.php",
+            "src/PearTree.php",
+            "src/Gardener.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}
